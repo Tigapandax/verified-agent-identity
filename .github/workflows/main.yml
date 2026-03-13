@@ -29,4 +29,4 @@ jobs:
 
       - name: Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"tigapanda","description":"tigapanda AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"tigapandax","description":"tigapandax AI Agent"}' 
